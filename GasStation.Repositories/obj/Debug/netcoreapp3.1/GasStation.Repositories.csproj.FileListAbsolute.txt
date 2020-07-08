@@ -1,0 +1,15 @@
+C:\_test\GasStation.API\GasStation.Repositories\bin\Debug\netcoreapp3.1\GasStation.Repositories.deps.json
+C:\_test\GasStation.API\GasStation.Repositories\bin\Debug\netcoreapp3.1\GasStation.Repositories.dll
+C:\_test\GasStation.API\GasStation.Repositories\obj\Debug\netcoreapp3.1\GasStation.Repositories.csprojAssemblyReference.cache
+C:\_test\GasStation.API\GasStation.Repositories\obj\Debug\netcoreapp3.1\GasStation.Repositories.AssemblyInfoInputs.cache
+C:\_test\GasStation.API\GasStation.Repositories\obj\Debug\netcoreapp3.1\GasStation.Repositories.AssemblyInfo.cs
+C:\_test\GasStation.API\GasStation.Repositories\bin\Debug\netcoreapp3.1\GasStation.Domain.dll
+C:\_test\GasStation.API\GasStation.Repositories\bin\Debug\netcoreapp3.1\GasStation.Repositories.runtimeconfig.json
+C:\_test\GasStation.API\GasStation.Repositories\bin\Debug\netcoreapp3.1\GasStation.Repositories.runtimeconfig.dev.json
+C:\_test\GasStation.API\GasStation.Repositories\bin\Debug\netcoreapp3.1\GasStation.Repositories.pdb
+C:\_test\GasStation.API\GasStation.Repositories\bin\Debug\netcoreapp3.1\GasStation.Domain.pdb
+C:\_test\GasStation.API\GasStation.Repositories\obj\Debug\netcoreapp3.1\GasStation.Repositories.csproj.CopyComplete
+C:\_test\GasStation.API\GasStation.Repositories\obj\Debug\netcoreapp3.1\GasStation.Repositories.dll
+C:\_test\GasStation.API\GasStation.Repositories\obj\Debug\netcoreapp3.1\GasStation.Repositories.pdb
+C:\_test\GasStation.API\GasStation.Repositories\obj\Debug\netcoreapp3.1\GasStation.Repositories.genruntimeconfig.cache
+C:\_test\GasStation.API\GasStation.Repositories\obj\Debug\netcoreapp3.1\GasStation.Repositories.csproj.CoreCompileInputs.cache

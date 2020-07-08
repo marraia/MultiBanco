@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  gasstation.api:
+    image: gasstationapi
+    build:
+      context: .
+      dockerfile: GasStation.API/Dockerfile

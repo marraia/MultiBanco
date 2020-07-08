@@ -1,0 +1,9 @@
+C:\_test\GasStation.API\GasStation.Domain\bin\Debug\netcoreapp3.1\GasStation.Domain.deps.json
+C:\_test\GasStation.API\GasStation.Domain\bin\Debug\netcoreapp3.1\GasStation.Domain.dll
+C:\_test\GasStation.API\GasStation.Domain\bin\Debug\netcoreapp3.1\GasStation.Domain.pdb
+C:\_test\GasStation.API\GasStation.Domain\obj\Debug\netcoreapp3.1\GasStation.Domain.csprojAssemblyReference.cache
+C:\_test\GasStation.API\GasStation.Domain\obj\Debug\netcoreapp3.1\GasStation.Domain.AssemblyInfoInputs.cache
+C:\_test\GasStation.API\GasStation.Domain\obj\Debug\netcoreapp3.1\GasStation.Domain.AssemblyInfo.cs
+C:\_test\GasStation.API\GasStation.Domain\obj\Debug\netcoreapp3.1\GasStation.Domain.csproj.CoreCompileInputs.cache
+C:\_test\GasStation.API\GasStation.Domain\obj\Debug\netcoreapp3.1\GasStation.Domain.dll
+C:\_test\GasStation.API\GasStation.Domain\obj\Debug\netcoreapp3.1\GasStation.Domain.pdb

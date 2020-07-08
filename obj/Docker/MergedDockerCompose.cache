@@ -1,0 +1,30 @@
+services:
+  gasstation.api:
+    build:
+      context: C:\_test\GasStation.API
+      dockerfile: GasStation.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: gasstationapi
+    ports:
+    - published: 4444
+      target: 80
+  post.gres:
+    environment:
+      POSTGRES_DB: station
+      POSTGRES_PASSWORD: 123Aa321
+      POSTGRES_USER: gasstation
+    image: postgres
+    ports:
+    - published: 6543
+      target: 5432
+  sql.server:
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_PID: Developer
+      MSSQL_SA_PASSWORD: 123Aa321
+    image: microsoft/mssql-server-linux:2017-latest
+    ports:
+    - published: 11433
+      target: 1433
+version: '3.4'
